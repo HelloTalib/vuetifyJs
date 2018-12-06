@@ -56,8 +56,6 @@ export default {
     myProjects() {
       return this.projects.filter(project => {
         return project.person ==='Talib'
-        return project.person ==='Mishu'
-
       })
     }
   }
