@@ -35,10 +35,10 @@ export default {
   data() {
     return {
       team: [
-        { name: "Someone", role: "Web developer",avatar:'./avatar/avatar-1.jpg' },
-        { name: "Surovi", role: "Graphic designer", avatar:'./avatar/avatar-2.jpg'},
-        { name: "Md Abu Talib", role: "Web developer",avatar:'./avatar/avatar-3.jpg'},
-        { name: "Khaled", role: "Social media maverick",avatar:'./avatar/avatar-4.jpg' },
+        { name: "Someone", role: "Web Developer",avatar:'./avatar/avatar-1.jpg' },
+        { name: "Surovi", role: "Graphisc Designer", avatar:'./avatar/avatar-2.jpg'},
+        { name: "Abu Talib", role: "Web Developer",avatar:'./avatar/avatar-3.jpg'},
+        { name: "Khaled", role: "Social Media Markter",avatar:'./avatar/avatar-4.jpg' },
         { name: "Mishu", role: "Sales guru",avatar:'./avatar/avatar-5.jpg'}
       ]
     };
